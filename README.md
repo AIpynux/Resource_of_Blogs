@@ -1,2 +1,3 @@
 # Resource_of_Blogs
 Contain resource files of my blogs such as pictures ...
+my stupid boss still prefer SVN.
